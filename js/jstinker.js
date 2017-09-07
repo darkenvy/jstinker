@@ -4,7 +4,23 @@ $("document").ready(function() {
 
   // List of Frameworks & Extensions
   var frameworks = {
-    "jQuery 3.2.1": "js/vendor/jquery-3.2.1.js"
+    "jQuery 3.2.1": "js/vendor/jQuery 3.2.1.js",
+    "Angular 1.6.6": "js/vendor/angular1.6/Angular 1.6.6.js",
+    "Angular Animate": "js/vendor/angular1.6/Angular Animate.js",
+    "Angular Cookies": "js/vendor/angular1.6/Angular Cookies.js",
+    "Angular Loader": "js/vendor/angular1.6/Angular Loader.js",
+    "Angular Parse Ext": "js/vendor/angular1.6/Angular Parse Ext.js",
+    "Angular Resource": "js/vendor/angular1.6/Angular Resource.js",
+    "Angular Route": "js/vendor/angular1.6/Angular Route.js",
+    "Angular Sanitize": "js/vendor/angular1.6/Angular Sanitize.js",
+    "Angular Scenario": "js/vendor/angular1.6/Angular Scenario.js",
+    "Angular Touch": "js/vendor/angular1.6/Angular Touch.js",
+    "React Redux": "js/vendor/react/React Redux.js",
+    "React Router": "js/vendor/react/React Router.js",
+    "Redux Saga": "js/vendor/react/Redux Saga.js",
+    Chartjs: "js/vendor/Chartjs.js",
+    "Date.js": "js/vendor/Date.js.js",
+    D3: "js/vendor/D3.js"
   };
 
   var frameworks_css = {};
